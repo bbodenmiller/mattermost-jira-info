@@ -13,6 +13,7 @@ The bot will post your message in your name (+BOT) and with your avatar and atta
 What you write in Mattermost
 ----------------------------
 ![What you write in Mattermost](/doc/mattermost-jira-info-allChannels-input.png)
+
 What all users will see
 -----------------------
 ![What all users will see](/doc/mattermost-jira-info-allChannels-output.png)
